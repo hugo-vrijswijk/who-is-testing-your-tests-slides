@@ -1,19 +1,19 @@
 {
-    "name": "who-is-testing-your-tests-slides",
-    "version": "1.0.0",
-    "description": "Slides for the mutation-testing for JVM iska",
-    "scripts": {
-      "start": "reveal-md slides/10-index.md",
-      "dev": "reveal-md slides/10-index.md -w"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hugo-vrijswijk/who-is-testing-your-tests-slides.git"
-    },
-    "author": "Hugo van Rijswijk",
-    "license": "MIT",
-    "homepage": "https://github.com/hugo-vrijswijk/who-is-testing-your-tests-slides#readme",
-    "dependencies": {
-      "reveal-md": "^4.3.0"
-    }
+  "name": "who-is-testing-your-tests-slides",
+  "version": "1.0.0",
+  "description": "Slides for the mutation-testing for JVM iska",
+  "scripts": {
+    "start": "reveal-md slides/index.md",
+    "dev": "reveal-md slides/index.md -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugo-vrijswijk/who-is-testing-your-tests-slides.git"
+  },
+  "author": "Hugo van Rijswijk",
+  "license": "MIT",
+  "homepage": "https://github.com/hugo-vrijswijk/who-is-testing-your-tests-slides#readme",
+  "dependencies": {
+    "reveal-md": "^5.0.0"
   }
+}

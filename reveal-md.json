@@ -1,5 +1,6 @@
 {
-  "preprocessor": "preprocess.js",
   "includeDir": "slides",
-  "_": ["slides/10-index.md"]
+  "title": "Who is testing your tests?",
+  "css": "custom.css",
+  "highlightTheme": "dracula"
 }

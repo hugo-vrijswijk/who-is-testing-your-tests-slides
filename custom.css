@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4 {
+  font-family: 'Poppins', 'Source Sans Pro', sans-serif;
+  text-transform: none;
+}
+
+ul.no-list {
+  margin: 0;
+}
+.no-list li {
+  list-style-type: none;
+}
+
+table.table-small-text {
+  font-size: 36px;
+}
